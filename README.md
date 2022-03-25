@@ -1,4 +1,4 @@
-# NearStarterSDK-Patika-Task1
+# NearStarterSDK-Patika
 
 # `near-sdk-as` Starter Kit
 
